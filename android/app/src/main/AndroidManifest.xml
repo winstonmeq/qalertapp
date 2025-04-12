@@ -94,11 +94,7 @@
             </intent-filter>
         </receiver>
 
-        <meta-data
-            android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyCA3qcbbadyU4N_OQmM9GX6zvRzdA7TOTs"
-
-            />
+           
 
     </application>
 
